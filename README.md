@@ -38,5 +38,6 @@ config vpn ipsec phase2-interface
 end
 
 *****AND set route at both place to needed net*****
+After this DOUBLE CHECK proposal on both side. One time after adding routing and success Phase 1, all proposal set default. 
 
 
